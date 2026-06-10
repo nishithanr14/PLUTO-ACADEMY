@@ -91,7 +91,7 @@ One interesting observation was that GDP alone does not fully explain happiness 
 
 * Project01.ipynb
 * README.md
-* Dataset file(s)
+* Dataset file
 * Generated visualizations
 
 ## Author
